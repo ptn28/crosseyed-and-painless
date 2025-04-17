@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Crosseyed and Painless Project</title>
+    <link href="https://ptn28.github.io/crosseyed-and-painless/feed.xml" rel="self" />
+    <link href="https://ptn28.github.io/crosseyed-and-painless" />
+    <updated>2025-04-16T23:55:19-04:00</updated>
+    <author>
+        <name>Peter Nguyen</name>
+    </author>
+    <id>https://ptn28.github.io/crosseyed-and-painless</id>
+
+    <entry>
+        <title>Crosseyed and Painless Project</title>
+        <author>
+            <name>Peter Nguyen</name>
+        </author>
+        <link href="https://ptn28.github.io/crosseyed-and-painless/crosseyed-and-painless-project-2.html"/>
+        <id>https://ptn28.github.io/crosseyed-and-painless/crosseyed-and-painless-project-2.html</id>
+
+        <updated>2025-04-16T21:05:40-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Introduction
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center"><a href="https://ptn28.github.io/crosseyed-and-painless/introduction.html">Introduction</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

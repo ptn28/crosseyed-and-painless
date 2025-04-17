@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Crosseyed and Painless Project",
+    "description": "",
+    "home_page_url": "https://ptn28.github.io/crosseyed-and-painless",
+    "feed_url": "https://ptn28.github.io/crosseyed-and-painless/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Peter Nguyen"
+    },
+    "items": [
+        {
+            "id": "https://ptn28.github.io/crosseyed-and-painless/crosseyed-and-painless-project-2.html",
+            "url": "https://ptn28.github.io/crosseyed-and-painless/crosseyed-and-painless-project-2.html",
+            "title": "Crosseyed and Painless Project",
+            "summary": "Introduction",
+            "content_html": "<p class=\"align-center\"><a href=\"https://ptn28.github.io/crosseyed-and-painless/introduction.html\">Introduction</a></p>",
+            "author": {
+                "name": "Peter Nguyen"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-16T21:05:40-04:00",
+            "date_modified": "2025-04-16T23:55:19-04:00"
+        }
+    ]
+}

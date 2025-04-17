@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ptn28.github.io/crosseyed-and-painless/sitemap.xml
